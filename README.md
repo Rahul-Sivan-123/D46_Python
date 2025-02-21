@@ -9,3 +9,6 @@ Assignment-2 is about data strucutres in Python.
 
 # Python Assignment-3 (Conditional and Looping Statements )
 Assignment-3 is about Conditional and Looping Statements in Python.
+
+# Python Assignment-4 (Python Functions )
+Assignment-4 is about Functions in Python.
