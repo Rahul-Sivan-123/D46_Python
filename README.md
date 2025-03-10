@@ -15,3 +15,6 @@ Assignment-4 is about Functions in Python.
 
 # Python Assignment-5 (File and Exception Handling)
 Assignment-5 is about File and Exception Handling in Python.
+
+# Python Assignment-6 (Python_Part_Assignment_OOPs)
+Assignment-6 is about OOPs concept in Python.
