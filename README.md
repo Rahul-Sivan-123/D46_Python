@@ -18,3 +18,6 @@ Assignment-5 is about File and Exception Handling in Python.
 
 # Python Assignment-6 (Python_Part_Assignment_OOPs)
 Assignment-6 is about OOPs concept in Python.
+
+# Python Assignment-7 (Numpy_Pandas)
+Assignment-6 is about Numpy and Pandas in Python.
