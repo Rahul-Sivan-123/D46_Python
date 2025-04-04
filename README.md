@@ -72,7 +72,7 @@ These visualizations were developed using Python libraries like Matplotlib and S
  After Preprocessing the height column with random values between 150 and 180, the dataset shows normalized height distributions across all players.
 
 #Position and Employee_Count Distribution:
-  . It's clear that position "SG" has the highest employee count and position "C" has the lowest employee count.
+     .It's clear that position "SG" has the highest employee count and position "C" has the lowest employee count.
 
 #Distribution of Employees by Age Group:
   . The predominant age group with highest number of employees is '26-30'.
