@@ -28,6 +28,9 @@ Assignment-8 is about Data Data Visualization in Python.
 # Python Module End Project
 This project focuses on analyzing a basketball dataset, which contains information about various players, such as their team, position, age, height, weight, college, and salary. The goal is to preprocess the dataset, perform insightful analysis, and present findings through graphical visualizations. The project aims to provide comprehensive insights into player statistics and team compositions, while highlighting trends and patterns.
 
+# Dataset
+The dataset used in this project is titled "myexcel.csv", which consists of 458 rows and 9 columns, encompassing player statistics across various teams.
+
 # Steps Done
 
 # Preprocessing Steps
