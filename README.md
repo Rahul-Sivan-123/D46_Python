@@ -71,21 +71,17 @@ These visualizations were developed using Python libraries like Matplotlib and S
 
  After Preprocessing the height column with random values between 150 and 180, the dataset shows normalized height distributions across all players.
 
-#Position and Employee_Count Distribution:
-     .It's clear that position "SG" has the highest employee count and position "C" has the lowest employee count.
+Distribution of Employees by Age Group:
+    . The predominant age group with highest number of employees is '26-30'.
 
-#Distribution of Employees by Age Group:
-  . The predominant age group with highest number of employees is '26-30'.
+Salary vs Team Analysis:
+    . The Most expensive team is Cleveland Cavaliers[Salary:106988689].
 
-#Salary vs Team Analysis:
-  . The Most expensive team is Cleveland Cavaliers[Salary:106988689].
+ Position vs Team Analysis:
+    . The position with highest salary expenditure is 'C'[Salary:466377332].
 
- #Position vs Team Analysis:
-  . The position with highest salary expenditure is 'C'[Salary:466377332].
+Correlation Between Age and Salary:
+    . The Correlation value between Age and Salary:0.214
 
-#Correlation Between Age and Salary:
-. The Correlation value between Age and Salary:0.214
-
-#Age Groups and Performance:
-. Players in their late 20s and early 30s dominate the higher salary range.
-
+Age Groups and Performance:
+    . Players in their late 20s and early 30s dominate the higher salary range.
