@@ -25,7 +25,7 @@ Assignment-6 is about Numpy and Pandas in Python.
 # Python Assignment-8 (Python-Data_Visualization)
 Assignment-8 is about Data Data Visualization in Python.
 
-# Python Module End Project
+# Module_4_Python Module End Project
 This project focuses on analyzing a basketball dataset, which contains information about various players, such as their team, position, age, height, weight, college, and salary. The goal is to preprocess the dataset, perform insightful analysis, and present findings through graphical visualizations. The project aims to provide comprehensive insights into player statistics and team compositions, while highlighting trends and patterns.
 
 # Dataset
