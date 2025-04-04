@@ -21,3 +21,6 @@ Assignment-6 is about OOPs concept in Python.
 
 # Python Assignment-7 (Numpy_Pandas)
 Assignment-6 is about Numpy and Pandas in Python.
+
+# Python Assignment-8 (Python-Data_Visualization)
+Assignment-8 is about Data Data Visualization in Python.
